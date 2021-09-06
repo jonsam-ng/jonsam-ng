@@ -12,7 +12,7 @@ jobs:
     steps:
       - uses: athul/waka-readme@master
         with:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          WAKATIME_API_KEY: ${{ secrets.WIKA_TOKEN }}
       - name: Check out repo
         uses: actions/checkout@v2
       - name: Set up Python
