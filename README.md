@@ -1,11 +1,12 @@
 <!-- banner -->
-<div style="position: relative;width: 100%;height:300px;box-shadow:-4px -4px 6px #00000010">
+<!-- <div style="position: relative;width: 100%;height:300px;box-shadow:-4px -4px 6px #00000010">
   <div style='position: absolute;border:none;top:4rem;left:2rem;z-index:-1'>
     <h1 style="font-size: 3.5rem;;font-weight:600;text-shadow:4px 4px 6px #eee;">Jonsam Ng</h1>
     <h2 style="font-size:14px;border-left:3px solid #fff;padding:0;padding-left:1.5rem;">💒&nbsp;坐标西安</br><span style="font-size:18px;"><span style="font-size:14px">🦄&nbsp;</span>前端开发者</span></h2>
   </div>
   <img src="./assets/programmer.png" style='z-index:2;opacity:1;position:absolute;bottom:0;right:0;'/>
-</div>
+</div> -->
+![Jonsam Ng](./banner.png)
 
 <!--
 - 🔭 I’m currently working on ...
