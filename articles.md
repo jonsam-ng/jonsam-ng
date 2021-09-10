@@ -1,4 +1,6 @@
 # My recent blogs 
+- [听君一席话，如听一席话](https://www.jonsam.site/2021/09/10/%e5%90%ac%e5%90%9b%e4%b8%80%e5%b8%ad%e8%af%9d%ef%bc%8c%e5%a6%82%e5%90%ac%e4%b8%80%e5%b8%ad%e8%af%9d/) - Fri, 10 Sep 2021 13:38:41 
+
 - [栈溢出（ Monday, September 6, 2021）](https://www.jonsam.site/2021/09/06/stack-overflow-1/) - Mon, 06 Sep 2021 06:32:06 
 
 - [TypeScript 最佳实践（1）](https://www.jonsam.site/2021/09/05/typescript-tricks-1/) - Sun, 05 Sep 2021 04:09:43 
@@ -16,5 +18,3 @@
 - [V8 引擎初探](https://www.jonsam.site/2021/07/20/v8_engine/) - Tue, 20 Jul 2021 05:12:32 
 
 - [[营销]SEO笔记之名词解释（4）](https://www.jonsam.site/2021/07/16/%e8%90%a5%e9%94%80seo%e7%ac%94%e8%ae%b0%e4%b9%8b%e5%90%8d%e8%af%8d%e8%a7%a3%e9%87%8a%ef%bc%884%ef%bc%89/) - Fri, 16 Jul 2021 01:07:54 
-
-- [今日知道](https://www.jonsam.site/2021/06/14/%e4%bb%8a%e6%97%a5%e7%9f%a5%e9%81%93-2/) - Mon, 14 Jun 2021 15:31:07 
