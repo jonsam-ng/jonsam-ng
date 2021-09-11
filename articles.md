@@ -1,5 +1,5 @@
 # My recent blogs 
-- [Solid.js 中英对照文档(1) —— Basic Reactivity & Lifecycles](https://www.jonsam.site/2021/09/10/solid-js-%e4%b8%ad%e8%8b%b1%e5%af%b9%e7%85%a7%e6%96%87%e6%a1%a31-basic-reactivity-lifecycles/) - Fri, 10 Sep 2021 15:34:12 
+- [Solid.js 中英对照文档(1) —— Basic Reactivity & Lifecycles](https://www.jonsam.site/2021/09/10/solid-js-basic-reactivity-lifecycles/) - Fri, 10 Sep 2021 15:34:12 
 
 - [听君一席话，如听一席话](https://www.jonsam.site/2021/09/10/%e5%90%ac%e5%90%9b%e4%b8%80%e5%b8%ad%e8%af%9d%ef%bc%8c%e5%a6%82%e5%90%ac%e4%b8%80%e5%b8%ad%e8%af%9d/) - Fri, 10 Sep 2021 13:38:41 
 
