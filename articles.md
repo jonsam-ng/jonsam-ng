@@ -1,5 +1,5 @@
 # My recent blogs 
-- [Solid.js 中英对照文档(1) —— Reactive Utilities & Stores](https://www.jonsam.site/2021/09/10/solid-js-reactive-utilities-stores/) - Fri, 10 Sep 2021 15:46:15 
+- [Solid.js 中英对照文档(2) —— Reactive Utilities & Stores](https://www.jonsam.site/2021/09/10/solid-js-reactive-utilities-stores/) - Fri, 10 Sep 2021 15:46:15 
 
 - [Solid.js 中英对照文档(1) —— Basic Reactivity & Lifecycles](https://www.jonsam.site/2021/09/10/solid-js-basic-reactivity-lifecycles/) - Fri, 10 Sep 2021 15:34:12 
 
