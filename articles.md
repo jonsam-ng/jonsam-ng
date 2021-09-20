@@ -1,4 +1,6 @@
 # My recent blogs 
+- [移动端浏览器内联播放和 UA 一览表](https://www.jonsam.site/2021/09/20/mobile-browser-ua-inline-player/) - Mon, 20 Sep 2021 07:45:21 
+
 - [栈溢出（  Sunday, September 19, 2021）](https://www.jonsam.site/2021/09/19/stack-overflow-2/) - Sun, 19 Sep 2021 07:12:54 
 
 - [JavaScript Symbol 详解](https://www.jonsam.site/2021/09/11/javascript-symbol/) - Sat, 11 Sep 2021 04:44:44 
@@ -16,5 +18,3 @@
 - [js 保留字和 H5 API](https://www.jonsam.site/2021/09/05/js-reserved-words-and-h5-api/) - Sun, 05 Sep 2021 02:57:47 
 
 - [Js Tricks 系列(2)](https://www.jonsam.site/2021/09/04/js-tricks-%e7%b3%bb%e5%88%972/) - Sat, 04 Sep 2021 06:10:55 
-
-- [Js Tricks 系列(1)](https://www.jonsam.site/2021/09/01/js-tricks1/) - Wed, 01 Sep 2021 04:57:00 
