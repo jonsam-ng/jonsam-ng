@@ -5,6 +5,8 @@
 
 - [栈溢出（  Sunday, September 19, 2021）](https://www.jonsam.site/2021/09/19/stack-overflow-2/) - Sun, 19 Sep 2021 07:12:54 
 
+- [Solid.js 中英对照文档(2) —— Component APIs & Secondary Primitives & Rendering](https://www.jonsam.site/2021/09/19/solid-js-component-apis-rendering/) - Sun, 19 Sep 2021 03:30:18 
+
 - [JavaScript Symbol 详解](https://www.jonsam.site/2021/09/11/javascript-symbol/) - Sat, 11 Sep 2021 04:44:44 
 
 - [Solid.js 中英对照文档(2) —— Reactive Utilities & Stores](https://www.jonsam.site/2021/09/10/solid-js-reactive-utilities-stores/) - Fri, 10 Sep 2021 15:46:15 
@@ -16,5 +18,3 @@
 - [栈溢出（ Monday, September 6, 2021）](https://www.jonsam.site/2021/09/06/stack-overflow-1/) - Mon, 06 Sep 2021 06:32:06 
 
 - [TypeScript 最佳实践（1）](https://www.jonsam.site/2021/09/05/typescript-tricks-1/) - Sun, 05 Sep 2021 04:09:43 
-
-- [js 保留字和 H5 API](https://www.jonsam.site/2021/09/05/js-reserved-words-and-h5-api/) - Sun, 05 Sep 2021 02:57:47 
