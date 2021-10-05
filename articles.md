@@ -3,6 +3,8 @@
 
 - [[营销]SEO笔记之SEO模型（5）](https://www.jonsam.site/2021/09/21/seo-model/) - Tue, 21 Sep 2021 14:31:59 
 
+- [Solid.js 中英对照文档(4) —— Control Flow & Special JSX Attributes](https://www.jonsam.site/2021/09/20/solid-js-control-flow-special-jsx-attributes/) - Mon, 20 Sep 2021 13:53:12 
+
 - [HTTP 状态码含义速查](https://www.jonsam.site/2021/09/20/http-code-meaning/) - Mon, 20 Sep 2021 12:12:39 
 
 - [移动端浏览器内联播放和 UA 一览表](https://www.jonsam.site/2021/09/20/mobile-browser-ua-inline-player/) - Mon, 20 Sep 2021 07:45:21 
@@ -16,5 +18,3 @@
 - [Solid.js 中英对照文档(2) —— Reactive Utilities & Stores](https://www.jonsam.site/2021/09/10/solid-js-reactive-utilities-stores/) - Fri, 10 Sep 2021 15:46:15 
 
 - [Solid.js 中英对照文档(1) —— Basic Reactivity & Lifecycles](https://www.jonsam.site/2021/09/10/solid-js-basic-reactivity-lifecycles/) - Fri, 10 Sep 2021 15:34:12 
-
-- [听君一席话，如听一席话](https://www.jonsam.site/2021/09/10/%e5%90%ac%e5%90%9b%e4%b8%80%e5%b8%ad%e8%af%9d%ef%bc%8c%e5%a6%82%e5%90%ac%e4%b8%80%e5%b8%ad%e8%af%9d/) - Fri, 10 Sep 2021 13:38:41 
