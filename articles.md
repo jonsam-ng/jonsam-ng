@@ -1,4 +1,6 @@
 # My recent blogs 
+- [CSS 世界【读书笔记】(1)](https://www.jonsam.site/2021/10/01/css-world-1/) - Fri, 01 Oct 2021 03:12:38 
+
 - [[营销]SEO笔记之SEO模型（5）](https://www.jonsam.site/2021/09/21/seo-model/) - Tue, 21 Sep 2021 14:31:59 
 
 - [HTTP 状态码含义速查](https://www.jonsam.site/2021/09/20/http-code-meaning/) - Mon, 20 Sep 2021 12:12:39 
@@ -16,5 +18,3 @@
 - [Solid.js 中英对照文档(1) —— Basic Reactivity & Lifecycles](https://www.jonsam.site/2021/09/10/solid-js-basic-reactivity-lifecycles/) - Fri, 10 Sep 2021 15:34:12 
 
 - [听君一席话，如听一席话](https://www.jonsam.site/2021/09/10/%e5%90%ac%e5%90%9b%e4%b8%80%e5%b8%ad%e8%af%9d%ef%bc%8c%e5%a6%82%e5%90%ac%e4%b8%80%e5%b8%ad%e8%af%9d/) - Fri, 10 Sep 2021 13:38:41 
-
-- [栈溢出（ Monday, September 6, 2021）](https://www.jonsam.site/2021/09/06/stack-overflow-1/) - Mon, 06 Sep 2021 06:32:06 
