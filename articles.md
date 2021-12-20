@@ -1,5 +1,5 @@
 # My recent blogs 
-- [[架构]Serverless构架基础(1)](https://www.jonsam.site/2021/12/12/serverless1/) - Sun, 12 Dec 2021 15:47:20 
+- [[架构]Serverless构架基础(1)](https://www.jonsam.site/2021/12/12/serverless-1/) - Sun, 12 Dec 2021 15:47:20 
 
 - [股票基础知识入门](https://www.jonsam.site/2021/12/09/stock-basic/) - Thu, 09 Dec 2021 13:17:19 
 
