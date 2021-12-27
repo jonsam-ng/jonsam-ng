@@ -1,4 +1,6 @@
 # My recent blogs 
+- [[架构]Serverless构架基础(3)](https://www.jonsam.site/2021/12/27/serverless-3/) - Mon, 27 Dec 2021 09:14:28 
+
 - [Js Tricks 系列(3)](https://www.jonsam.site/2021/12/24/js-tricks-%e7%b3%bb%e5%88%973/) - Fri, 24 Dec 2021 09:27:48 
 
 - [[SEO]搜索引擎优化词汇术语表](https://www.jonsam.site/2021/12/20/seo-concept/) - Mon, 20 Dec 2021 15:49:17 
@@ -16,5 +18,3 @@
 - [Solid.js 中英对照文档(4) —— Control Flow & Special JSX Attributes](https://www.jonsam.site/2021/09/20/solid-js-control-flow-special-jsx-attributes/) - Mon, 20 Sep 2021 13:53:12 
 
 - [HTTP 状态码含义速查](https://www.jonsam.site/2021/09/20/http-code-meaning/) - Mon, 20 Sep 2021 12:12:39 
-
-- [移动端浏览器内联播放和 UA 一览表](https://www.jonsam.site/2021/09/20/mobile-browser-ua-inline-player/) - Mon, 20 Sep 2021 07:45:21 
