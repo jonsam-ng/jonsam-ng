@@ -1,4 +1,6 @@
 # My recent blogs 
+- [[运维]持续集成与持续部署之基础概念](https://www.jonsam.site/2021/12/29/cicd-basic/) - Wed, 29 Dec 2021 03:51:49 
+
 - [[架构]Serverless构架基础(4)](https://www.jonsam.site/2021/12/28/serverless-4/) - Tue, 28 Dec 2021 08:35:56 
 
 - [[架构]Serverless构架基础(3)](https://www.jonsam.site/2021/12/27/serverless-3/) - Mon, 27 Dec 2021 09:14:28 
@@ -16,5 +18,3 @@
 - [CSS 世界【读书笔记】(1)](https://www.jonsam.site/2021/10/01/css-world-1/) - Fri, 01 Oct 2021 03:12:38 
 
 - [[营销]SEO笔记之SEO模型（5）](https://www.jonsam.site/2021/09/21/seo-model/) - Tue, 21 Sep 2021 14:31:59 
-
-- [Solid.js 中英对照文档(4) —— Control Flow & Special JSX Attributes](https://www.jonsam.site/2021/09/20/solid-js-control-flow-special-jsx-attributes/) - Mon, 20 Sep 2021 13:53:12 
