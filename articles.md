@@ -1,4 +1,6 @@
 # My recent blogs 
+- [[设计]平面设计基础理论三大构成之平面构成(1)](https://www.jonsam.site/2021/12/30/graphic_design_plane_composition/) - Thu, 30 Dec 2021 14:05:02 
+
 - [[运维]持续集成与持续部署之基础概念](https://www.jonsam.site/2021/12/29/cicd-basic/) - Wed, 29 Dec 2021 03:51:49 
 
 - [[架构]Serverless构架基础(4)](https://www.jonsam.site/2021/12/28/serverless-4/) - Tue, 28 Dec 2021 08:35:56 
@@ -16,5 +18,3 @@
 - [[架构]Serverless构架基础(1)](https://www.jonsam.site/2021/12/12/serverless-1/) - Sun, 12 Dec 2021 15:47:20 
 
 - [股票基础知识入门](https://www.jonsam.site/2021/12/09/stock-basic/) - Thu, 09 Dec 2021 13:17:19 
-
-- [CSS 世界【读书笔记】(1)](https://www.jonsam.site/2021/10/01/css-world-1/) - Fri, 01 Oct 2021 03:12:38 
