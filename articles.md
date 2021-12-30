@@ -9,6 +9,8 @@
 
 - [[SEO]搜索引擎优化词汇术语表](https://www.jonsam.site/2021/12/20/seo-concept/) - Mon, 20 Dec 2021 15:49:17 
 
+- [[SEO]网站SEO策划指南](https://www.jonsam.site/2021/12/20/seo-guide/) - Mon, 20 Dec 2021 15:37:04 
+
 - [[架构]Serverless构架基础(2)](https://www.jonsam.site/2021/12/18/serverless-2/) - Sat, 18 Dec 2021 03:28:01 
 
 - [[架构]Serverless构架基础(1)](https://www.jonsam.site/2021/12/12/serverless-1/) - Sun, 12 Dec 2021 15:47:20 
@@ -16,5 +18,3 @@
 - [股票基础知识入门](https://www.jonsam.site/2021/12/09/stock-basic/) - Thu, 09 Dec 2021 13:17:19 
 
 - [CSS 世界【读书笔记】(1)](https://www.jonsam.site/2021/10/01/css-world-1/) - Fri, 01 Oct 2021 03:12:38 
-
-- [[营销]SEO笔记之SEO模型（5）](https://www.jonsam.site/2021/09/21/seo-model/) - Tue, 21 Sep 2021 14:31:59 
