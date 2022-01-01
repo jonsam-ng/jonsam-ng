@@ -1,5 +1,5 @@
 # My recent blogs 
-- [[Javascript]Javascript模块化基础](https://www.jonsam.site/2021/12/31/javascript-module/) - Fri, 31 Dec 2021 12:14:12 
+- [[JavaScript]Javascript模块化基础](https://www.jonsam.site/2021/12/31/javascript-module/) - Fri, 31 Dec 2021 12:14:12 
 
 - [[运维]持续集成与持续部署之Jenkins](https://www.jonsam.site/2021/12/31/cicd-jenkins/) - Fri, 31 Dec 2021 04:43:32 
 
@@ -17,4 +17,4 @@
 
 - [[SEO]网站SEO策划指南](https://www.jonsam.site/2021/12/20/seo-guide/) - Mon, 20 Dec 2021 15:37:04 
 
-- [[架构]Serverless构架基础(2)](https://www.jonsam.site/2021/12/18/serverless-2/) - Sat, 18 Dec 2021 03:28:01 
+- [[知道]如何自定义bilibili视频播放倍速](https://www.jonsam.site/2021/12/18/know-1/) - Sat, 18 Dec 2021 15:03:55 
