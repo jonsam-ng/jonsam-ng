@@ -1,7 +1,7 @@
 # My recent blogs 
 - [[经济]经济学原理名词解释](https://www.jonsam.site/2022/01/07/terms-in-economics/) - Fri, 07 Jan 2022 00:29:17 
 
-- [[设计]平面设计基础理论三大构成之色彩构成(2)](https://www.jonsam.site/2022/01/06/2/) - Thu, 06 Jan 2022 13:21:21 
+- [[设计]平面设计基础理论三大构成之色彩构成](https://www.jonsam.site/2022/01/06/graphic-design-color-composition/) - Thu, 06 Jan 2022 13:21:21 
 
 - [[WebRTC]WebRTC基础之常见案例](https://www.jonsam.site/2022/01/04/webrtc-demo-1/) - Tue, 04 Jan 2022 10:29:44 
 
