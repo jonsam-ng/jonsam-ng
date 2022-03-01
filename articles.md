@@ -1,4 +1,6 @@
 # My recent blogs 
+- [[Web]如何高效地调试 Web 程序](https://www.jonsam.site/2022/03/01/web-debug/) - Tue, 01 Mar 2022 00:56:38 
+
 - [2022 年成为 Web3 开发人员的完整路线图和资源](https://www.jonsam.site/2022/02/28/2022-web3-roadmap/) - Mon, 28 Feb 2022 01:08:16 
 
 - [花与花语，说给你听](https://www.jonsam.site/2022/02/27/flower-language/) - Sun, 27 Feb 2022 03:38:20 
@@ -16,5 +18,3 @@
 - [[经济]经济学原理名词解释](https://www.jonsam.site/2022/01/07/terms-in-economics/) - Fri, 07 Jan 2022 00:29:17 
 
 - [[设计]平面设计基础理论三大构成之色彩构成](https://www.jonsam.site/2022/01/06/graphic-design-color-composition/) - Thu, 06 Jan 2022 13:21:21 
-
-- [[WebRTC]WebRTC基础之常见案例](https://www.jonsam.site/2022/01/04/webrtc-demo-1/) - Tue, 04 Jan 2022 10:29:44 
