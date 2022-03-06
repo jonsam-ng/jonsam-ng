@@ -1,4 +1,6 @@
 # My recent blogs 
+- [前端如何进阶架构师](https://www.jonsam.site/2022/03/06/fe-rchitect/) - Sun, 06 Mar 2022 13:12:46 
+
 - [[Web]如何高效地调试 Web 程序](https://www.jonsam.site/2022/03/01/web-debug/) - Tue, 01 Mar 2022 00:56:38 
 
 - [2022 年成为 Web3 开发人员的完整路线图和资源](https://www.jonsam.site/2022/02/28/2022-web3-roadmap/) - Mon, 28 Feb 2022 01:08:16 
@@ -16,5 +18,3 @@
 - [[WordPress]如何减少TTFB以提高WordPress 页面加载时间](https://www.jonsam.site/2022/01/14/reduce-rrfb/) - Fri, 14 Jan 2022 08:09:15 
 
 - [[经济]经济学原理名词解释](https://www.jonsam.site/2022/01/07/terms-in-economics/) - Fri, 07 Jan 2022 00:29:17 
-
-- [[设计]平面设计基础理论三大构成之色彩构成](https://www.jonsam.site/2022/01/06/graphic-design-color-composition/) - Thu, 06 Jan 2022 13:21:21 
