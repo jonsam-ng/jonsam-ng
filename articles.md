@@ -1,4 +1,6 @@
 # My recent blogs 
+- [从零开始学软件架构：架构设计分层实现](https://www.jonsam.site/2022/03/24/software-architecture-1/) - Wed, 23 Mar 2022 16:39:25 
+
 - [如何在 React 中使用 SVG](https://www.jonsam.site/2022/03/21/%e5%a6%82%e4%bd%95%e5%9c%a8-react-%e4%b8%ad%e4%bd%bf%e7%94%a8-svg/) - Sun, 20 Mar 2022 16:24:13 
 
 - [前端如何进阶架构师](https://www.jonsam.site/2022/03/06/fe-rchitect/) - Sun, 06 Mar 2022 13:12:46 
@@ -16,5 +18,3 @@
 - [[JavaScript]JavaScript 设计模式(1)](https://www.jonsam.site/2022/02/24/js-design-pattern-1/) - Thu, 24 Feb 2022 02:10:00 
 
 - [认识宠物狗，178种宠物狗科普](https://www.jonsam.site/2022/02/22/meet-pet-dogs/) - Tue, 22 Feb 2022 15:50:00 
-
-- [100个有趣的脑筋急转弯！](https://www.jonsam.site/2022/02/20/100-funny-brain-teasers/) - Sun, 20 Feb 2022 02:32:00 
