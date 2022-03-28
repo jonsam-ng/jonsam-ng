@@ -1,5 +1,5 @@
 # My recent blogs 
-- [[架构]从零开始学软件架构：核心服务层架构设计](https://www.jonsam.site/2022/03/28/software-architecture-4/) - Mon, 28 Mar 2022 04:05:32 
+- [[架构]从零开始学软件架构：核心服务层架构设计之消息通信](https://www.jonsam.site/2022/03/28/software-architecture-4/) - Mon, 28 Mar 2022 04:05:32 
 
 - [[架构]从零开始学软件架构：API 网关层架构设计](https://www.jonsam.site/2022/03/27/software-architecture-3/) - Sun, 27 Mar 2022 14:31:53 
 
