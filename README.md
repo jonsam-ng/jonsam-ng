@@ -1,22 +1,12 @@
 
 <!-- banner -->
-<!-- <div style="position: relative;width: 100%;height:300px;box-shadow:-4px -4px 6px #00000010">
-  <div style='position: absolute;border:none;top:4rem;left:2rem;z-index:-1'>
-    <h1 style="font-size: 3.5rem;;font-weight:600;text-shadow:4px 4px 6px #eee;">Jonsam Ng</h1>
-    <h2 style="font-size:14px;border-left:3px solid #fff;padding:0;padding-left:1.5rem;">💒&nbsp;坐标西安</br><span style="font-size:18px;"><span style="font-size:14px">🦄&nbsp;</span>前端开发者</span></h2>
-  </div>
-  <img src="./assets/programmer.png" style='z-index:2;opacity:1;position:absolute;bottom:0;right:0;'/>
-</div> -->
-
-<a href='https://github.com/jonsam-ng?tab=repositories'>
+<a href='https://www.jonsam.site' target="_blank">
   <img src='./assets/banner.png' alt="Jonsam Ng">
 </a>
 
 ----
 
-![welcome-image](./assets/welcome.svg)
-
- I'm jonsam ng,a web developer from Xi'an, China.I am on React and Typescript.
+Hi, I'm jonsam ng, a web developer from Xi'an, China.I am on React and Typescript.
 
 ## My blog website
 
@@ -27,6 +17,9 @@
 👉 [My Blogs recently](./articles.md)
 
 ## Things recently
+
+- Read source code of front end.
+- Things of basic machine learnning.
 
 ## Things I code with
 
@@ -59,14 +52,3 @@
 ### Profile stats :musical_keyboard:
 
 <img src="https://github-readme-stats.vercel.app/api?username=jonsam-ng&show_icons=true&theme=synthwave" alt="jonsam :: Profile Stats" />
-
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
