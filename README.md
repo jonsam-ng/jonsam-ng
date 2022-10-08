@@ -18,7 +18,7 @@ Hi, I'm jonsam ng, a web developer from Xi'an, China.I am on React and Typescrip
 
 ## Things recently
 
-- Read source code of front end.
+- Read source code of front end, check at [Fancy Front End](https://source.jonsam.site/).
 - Webrtc learning roadmap.
 - Things of basic machine learnning.
 - Sharing good books and reading.
