@@ -1,7 +1,7 @@
 
 <!-- banner -->
 <a href='https://www.jonsam.site' target="_blank">
-  <img src='./assets/banner.png' alt="Jonsam Ng">
+  <img src='https://cdn.staticaly.com/gh/jonsam-ng/image-hosting@master/2022/image.2bfuvnqxdqtc.webp' alt="Jonsam Ng">
 </a>
 
 ----
