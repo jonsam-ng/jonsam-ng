@@ -18,10 +18,12 @@ Hi, I'm jonsam ng, a web developer from Xi'an, China.I am on React and Typescrip
 
 ## Things recently
 
+- 100 days JavaScript learning challenge, check at [100 days of JavaScript](https://100js.jonsam.site/)
+- Data structures and algorithms is fun, check at [Fancy DSA](https://dsa.jonsam.site/)
 - Read source code of front end, check at [Fancy Front End](https://source.jonsam.site/).
 - Webrtc learning roadmap.
 - Things of basic machine learnning.
-- Sharing good books and reading.
+- Sharing good books and reading, check at [氧气空间](https://ox.jonsam.site/).
 
 ## Things I code with
 
