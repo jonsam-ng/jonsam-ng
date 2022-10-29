@@ -4,9 +4,13 @@
   <img src='https://www.jonsam.site/wp-content/uploads/2021/05/cropped-1620740750-%E9%A3%9E%E6%AA%90.png' alt="Jonsam Ng">
 </a>
 
+高轩临碧渚，飞檐迥架空。—— 唐 • 李世民《置酒坐飞阁》
+
+This photo was taken in Chengdu, China. The meaning of the above Tang poem is the high ceiling is facing the blue islet, and the flying eaves are very empty.🦄🦄🦄
+
 ----
 
-Hi 👋, I'm jonsam ng, a web developer from Xi'an, China 🇨🇳.I am on React 🤞 and Typescript 🤞.
+Hi 👋, I'm jonsam ng, a web developer from Xi'an, 🇨🇳.I am on React 🤞 and Typescript 🤞.
 
 ## 🏠 My Blog
 
