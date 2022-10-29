@@ -1,31 +1,31 @@
 
 <!-- banner -->
 <a href='https://www.jonsam.site' target="_blank">
-  <img src='https://cdn.staticaly.com/gh/jonsam-ng/image-hosting@master/2022/image.2bfuvnqxdqtc.webp' alt="Jonsam Ng">
+  <img src='https://www.jonsam.site/wp-content/uploads/2021/05/cropped-1620740750-%E9%A3%9E%E6%AA%90.png' alt="Jonsam Ng">
 </a>
 
 ----
 
-Hi, I'm jonsam ng, a web developer from Xi'an, China.I am on React and Typescript.
+Hi 👋, I'm jonsam ng, a web developer from Xi'an, China 🇨🇳.I am on React 🤞 and Typescript 🤞.
 
-## My blog website
+## 🏠 My Blog
 
 👉 [夏夜•梦无眠](https://www.jonsam.site/)
 
-## Blogs recently
+## 👀 Blogs Recently
 
 👉 [My Blogs recently](./articles.md)
 
-## Things recently
+## 🚒 Things Recently
 
-- 100 days JavaScript learning challenge, check at [100 days of JavaScript](https://100js.jonsam.site/)
-- Data structures and algorithms is fun, check at [Fancy DSA](https://dsa.jonsam.site/)
-- Read source code of front end, check at [Fancy Front End](https://source.jonsam.site/).
-- Webrtc learning roadmap.
-- Things of basic machine learnning.
-- Sharing good books and reading, check at [氧气空间](https://ox.jonsam.site/).
+- 🔥 100 days JavaScript learning challenge, check at [100 days of JavaScript](https://100js.jonsam.site/).
+- 🔥 Data structures and algorithms is fun, check at [Fancy DSA](https://dsa.jonsam.site/).
+- 🔥 Read source code of front end, check at [Fancy Front End](https://source.jonsam.site/).
+- 🔥 Webrtc learning roadmap.
+- 🔥 Things of basic machine learnning.
+- 🔥 Sharing good books and reading, check at [氧气空间](https://ox.jonsam.site/).
 
-## Things I code with
+## 💻 I Code With
 
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -34,7 +34,7 @@ Hi, I'm jonsam ng, a web developer from Xi'an, China.I am on React and Typescrip
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
-## Github stats :bar_chart:
+## 📊 Github Stats
 
 ### Visitor's count :eyes:
 
