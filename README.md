@@ -12,6 +12,10 @@ This photo was taken in Chengdu, China. The meaning of the above Tang poem is th
 
 Hi 👋, I'm jonsam ng, a web developer from Xi'an, 🇨🇳.I am on React 🤞 and Typescript 🤞.
 
+## 👦 About Me
+
+👉 [Fu7ur3](https://portfolio.jonsam.site/)
+
 ## 🏠 My Blog
 
 👉 [夏夜•梦无眠](https://www.jonsam.site/)
