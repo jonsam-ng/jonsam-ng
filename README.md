@@ -50,8 +50,8 @@ Hi 👋, I'm jonsam ng, a web developer from Shanghai, China🇨🇳. I am on Re
 
 ### Top langs :tongue:
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonsam-ng&langs_count=10&theme=tokyonight" alt="jonsam :: Top Langs" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jonsam-ng&langs_count=10&theme=tokyonight" alt="jonsam :: Top Langs" />
 
 ### Profile stats :musical_keyboard:
 
-<img src="https://github-readme-stats.vercel.app/api?username=jonsam-ng&show_icons=true&theme=synthwave" alt="jonsam :: Profile Stats" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=jonsam-ng&show_icons=true&theme=synthwave" alt="jonsam :: Profile Stats" />
