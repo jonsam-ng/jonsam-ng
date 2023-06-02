@@ -10,7 +10,7 @@ This photo was taken in Chengdu, China. The meaning of the above Tang poem is th
 
 ----
 
-Hi 👋, I'm jonsam ng, a web developer from Xi'an, 🇨🇳.I am on React 🤞 and Typescript 🤞.
+Hi 👋, I'm jonsam ng, a web developer from Shanghai, China🇨🇳. I am on React 🤞 and Typescript 🤞.
 
 ## 👦 About Me
 
@@ -27,11 +27,11 @@ Hi 👋, I'm jonsam ng, a web developer from Xi'an, 🇨🇳.I am on React 🤞 
 ## 🚒 Things Recently
 
 - 🔥 100 days JavaScript learning challenge, check at [100 days of JavaScript](https://100js.jonsam.site/).
-- 🔥 Data structures and algorithms is fun, check at [Fancy DSA](https://dsa.jonsam.site/).
+- 🔥 Data structures and algorithms, check at [Fancy DSA](https://dsa.jonsam.site/).
 - 🔥 Read source code of front end, check at [Fancy Front End](https://source.jonsam.site/).
 - 🔥 Webrtc learning roadmap.
 - 🔥 Things of basic machine learnning.
-- 🔥 Sharing good books and reading, check at [氧气空间](https://ox.jonsam.site/).
+- 🔥 Sharing good books, check at [氧气空间](https://ox.jonsam.site/).
 
 ## 💻 I Code With
 
